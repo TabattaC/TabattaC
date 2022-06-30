@@ -3,7 +3,6 @@
 <div align="left">
   <a href="https://github.com/TabattaC">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TabattaC&layout=compact&langs_count=7&theme=dracula"/>
-  <img width='250px'>
   <a align="right" href="https://picasion.com/" title="gif maker"><img src="https://i.picasion.com/pic92/65a06b13ee91eb3d4e554ccf7d13cf44.gif" height="250" style="border-radius:50px; alt="gif maker"></a>
    
 </div>
