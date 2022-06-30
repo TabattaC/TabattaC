@@ -3,10 +3,10 @@
 <div align="left">
   <a href="https://github.com/rafaballerini">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TabattaC&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/772203700982775820/992107292180881459/picasion.com_92294030e0125e52d79b3b60cf817fe9.gif">
+  <img align="right" alt="tatta-pic" height="250" style="border-radius:50px;" src=" ">
    
 </div>
- 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="tatta-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="tatta-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
